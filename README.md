@@ -1,4 +1,7 @@
-# test coverage for  [code (v4.0.0)](https://github.com/hapijs/code#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-code.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-code) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-code.svg)](https://travis-ci.org/npmtest/node-npmtest-code)
+# npmtest-code
+
+#### basic test coverage for  [code (v4.0.0)](https://github.com/hapijs/code#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-code.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-code) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-code.svg)](https://travis-ci.org/npmtest/node-npmtest-code)
+
 #### assertion library
 
 [![NPM](https://nodei.co/npm/code.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/code)
@@ -80,7 +83,8 @@
         "toc": "node generate-api-toc.js",
         "version": "npm run toc && git add API.md"
     },
-    "version": "4.0.0"
+    "version": "4.0.0",
+    "bin": {}
 }
 ```
 
